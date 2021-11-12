@@ -60,7 +60,7 @@
                     android:inputType="textPassword" />
 
                 <Button
-                    android:id="@+id/button"
+                    android:id="@+id/button2"
                     android:layout_width="match_parent"
                     android:layout_height="66dp"
                     android:text="로그인" />
@@ -71,7 +71,7 @@
                     android:layout_height="wrap_content" />
 
                 <TextView
-                    android:id="@+id/registerButton"
+                    android:id="@+id/textView16"
                     android:layout_gravity="center"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -81,7 +81,7 @@
             </LinearLayout>
 
             <TextView
-                android:id="@+id/textview16"
+                android:id="@+id/textView14"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1" />
